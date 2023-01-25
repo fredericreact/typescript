@@ -28,3 +28,7 @@ let people: {
     name: string;
     age: number;
 }[];
+
+
+
+let course = 'React course';
