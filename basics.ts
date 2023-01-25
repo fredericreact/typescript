@@ -1,14 +1,19 @@
+
+
+
 let age: number;
 
 age = 12;
 
-let username: string;
+let username: string | string[];
 
 username = 'Max'
 
 let isInstructor: boolean;
 
 isInstructor = true;
+
+
 
 let hobbies: string[];
 
@@ -32,3 +37,8 @@ let people: {
 
 
 let course = 'React course';
+
+
+let cours: string | number ='Angular';
+
+cours = 1234
