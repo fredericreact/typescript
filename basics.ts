@@ -30,3 +30,9 @@ let course = 'React course';
 
 let cours: string | number ='Angular';
 cours = 1234
+
+
+function add(a: number, b: number) {
+    return a + b;
+}
+
